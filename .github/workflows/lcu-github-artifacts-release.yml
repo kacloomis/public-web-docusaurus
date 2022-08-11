@@ -1,4 +1,4 @@
-name: kacloomis/public-web-docusaurus
+name: kacloomis/public-web-react
 
 on:
   push:
